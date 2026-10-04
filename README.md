@@ -49,16 +49,6 @@
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**🌱 Currently Learning**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Tools**
 
@@ -85,25 +75,6 @@
 
 ---
 
-## 🗺️ My Learning Roadmap
-
-> Building in public — I tick these off as I ship real projects with them.
-
-**Frontend**
-- [x] HTML & CSS fundamentals
-- [ ] React basics — components, props, state
-- [ ] React Router & Zustand
-- [ ] Styling with Tailwind CSS
-
-**Backend**
-- [ ] REST APIs with Node.js + Express
-- [ ] MongoDB with Mongoose
-- [ ] Authentication with JWT
-
-**Milestone**
-- [ ] 🎯 Ship my first full-stack MERN project
-
----
 
 ## 📚 Currently Studying
 
