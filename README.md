@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=86A8E7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UET+Lahore;Full-Stack+Web+Developer+(MERN);Java+%7C+C%23+%7C+Python+%7C+JavaScript;Cyber+Security+Society+Member+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=86A8E7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UET+Lahore;Aspiring+Full-Stack+Web+Developer;Java+%7C+C%23+%7C+Python+%7C+JavaScript;Cyber+Security+Society+Member+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,23 +41,23 @@
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
+**Web & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🌱 Currently Learning**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Tools**
@@ -85,20 +85,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ My Learning Roadmap
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedatehreem488&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedatehreem488&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+> Building in public — I tick these off as I ship real projects with them.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedatehreem488&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+**Frontend**
+- [x] HTML & CSS fundamentals
+- [ ] React basics — components, props, state
+- [ ] React Router & Zustand
+- [ ] Styling with Tailwind CSS
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedatehreem488&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+**Backend**
+- [ ] REST APIs with Node.js + Express
+- [ ] MongoDB with Mongoose
+- [ ] Authentication with JWT
+
+**Milestone**
+- [ ] 🎯 Ship my first full-stack MERN project
 
 ---
 
