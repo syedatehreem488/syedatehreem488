@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:tehreem.gillanisyed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/syeda-tehreem-fatima-gillani-364253374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=syedatehreem488&style=for-the-badge&color=86A8E7&label=Profile+Views"/>
 </p>
 
