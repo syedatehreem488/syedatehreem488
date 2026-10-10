@@ -68,7 +68,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | ⚡ **[Electricity Network MST](https://github.com/syedatehreem488/electricity-network-mst)** · [**Live demo**](https://syedatehreem488.github.io/electricity-network-mst/) | Cheapest way to connect every city to the grid: Kruskal's MST in C++, plus an interactive web GUI that steps through the algorithm and shows Union-Find live | C++, JavaScript |
-| 🏢 **[Office Management System](https://github.com/syedatehreem488/OfficeManagementSystemOHM)** | Full-stack office system with role-based access, attendance, leave approval, payroll and meetings, backed by MySQL stored procedures | C#, ASP.NET Core MVC, MySQL |
+| 🏢 **[Office Management System](https://github.com/syedatehreem488/OfficeManagementSystemOHM)** · [**Live demo**](https://officemanagementsystemohm-1.onrender.com/) | Full-stack office system with role-based access, attendance, leave approval, payroll and meetings, backed by MySQL stored procedures | C#, ASP.NET Core MVC, MySQL |
 | 📚 **[Library Management System](https://github.com/syedatehreem488/Library-Management-System-Python-Tkinter-SQLite-)** | Desktop app for managing books, members and issue/return transactions | Python, Tkinter, SQLite |
 | 🏦 **[BankingAppGUI-Java](https://github.com/syedatehreem488/BankingAppGUI-Java)** | Swing banking system with Admin & Client portals, account management, and file-based persistence | Java, Swing |
 | 🟡 **[Pacman-GUI-Game](https://github.com/syedatehreem488/Pacman-GUI-Game)** | Graphical Pacman with animated ghosts, scoring, lives, and win/lose states | Java, Swing |
@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <i>"Code. Debug. Learn. Repeat." 💙</i>
+  <i>"Eat. Code. Sleep. Repeat." 💙</i>
 </p>
 
 <p align="center">
