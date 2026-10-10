@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:tehreem.gillanisyed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/syeda-tehreem-fatima-gillani-364253374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/syeda-tehreem-fatima-gillani-364253374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=syedatehreem488&style=for-the-badge&color=86A8E7&label=Profile+Views"/>
 </p>
 
@@ -21,6 +21,7 @@
 
 - 🎓 Computer Engineering student at **University of Engineering and Technology (UET), Lahore**
 - 🛡️ Active in the **Cyber Security Society (CSS), UET Lahore**
+- 💼 Currently a **web development intern**
 - 🌱 Currently learning: **Operating Systems, AI, and Software Engineering practices**
 - 🎯 Interests: full-stack development, OOP design, databases, and security
 - 📫 Reach me at **tehreem.gillanisyed@gmail.com**
@@ -66,7 +67,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏢 **[Office Management System](https://github.com/syedatehreem488/REPO-NAME)** | Full-stack office system with role-based access for admins and employees, session management, and MySQL persistence | C#, ASP.NET MVC, MySQL |
+| ⚡ **[Electricity Network MST](https://github.com/syedatehreem488/electricity-network-mst)** · [**Live demo**](https://syedatehreem488.github.io/electricity-network-mst/) | Cheapest way to connect every city to the grid: Kruskal's MST in C++, plus an interactive web GUI that steps through the algorithm and shows Union-Find live | C++, JavaScript |
+| 🏢 **[Office Management System](https://github.com/syedatehreem488/OfficeManagementSystemOHM)** | Full-stack office system with role-based access, attendance, leave approval, payroll and meetings, backed by MySQL stored procedures | C#, ASP.NET Core MVC, MySQL |
+| 📚 **[Library Management System](https://github.com/syedatehreem488/Library-Management-System-Python-Tkinter-SQLite-)** | Desktop app for managing books, members and issue/return transactions | Python, Tkinter, SQLite |
 | 🏦 **[BankingAppGUI-Java](https://github.com/syedatehreem488/BankingAppGUI-Java)** | Swing banking system with Admin & Client portals, account management, and file-based persistence | Java, Swing |
 | 🟡 **[Pacman-GUI-Game](https://github.com/syedatehreem488/Pacman-GUI-Game)** | Graphical Pacman with animated ghosts, scoring, lives, and win/lose states | Java, Swing |
 | 👻 **[Pacman-Console-Game](https://github.com/syedatehreem488/Pacman-Console-Game)** | ASCII Pacman showcasing abstraction, inheritance, and polymorphism with random ghost AI | Java |
@@ -76,9 +79,11 @@
 ---
 
 
-## 📚 Currently Studying
+## 📚 Coursework
 
-`Operating Systems` · `Artificial Intelligence` · `Software Engineering` · `Database Systems` · `Data Structures & Algorithms` · `Computer Organization & Assembly Language` · `Linear Algebra`
+**Currently studying:** `Operating Systems` · `Artificial Intelligence` · `Software Engineering`
+
+**Completed:** `Database Systems` · `Data Structures & Algorithms` · `Computer Organization & Assembly Language` · `Linear Algebra`
 
 ---
 
